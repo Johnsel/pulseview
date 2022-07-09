@@ -27,6 +27,7 @@
 #include <mutex>
 #include <thread>
 #include <deque>
+#include <memory>
 
 #include <QObject>
 
